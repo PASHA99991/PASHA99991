@@ -15,7 +15,7 @@ new technologies and improving my development skills.
 - 🔭 I'm currently working on **Full Stack Development**
 - 🌱 I'm currently learning **Advanced Web Development & DevOps**
 - 💻 I enjoy building **Web Applications and APIs**
-- 🚀 Interested in **Cloud, DevOps, and Software Development**
+- 🚀 Interested in ** Software Development**
 - 📚 Always learning and exploring new technologies
 - 📫 Reach me at **khajapasha99991@gmail.com**
 
